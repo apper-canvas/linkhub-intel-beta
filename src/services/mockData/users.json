@@ -1,0 +1,35 @@
+[
+  {
+    "Id": 1,
+    "email": "sarah@example.com",
+    "password": "password123",
+    "username": "creator",
+    "name": "Sarah Creator",
+    "bio": "Digital creator sharing my favorite tools and resources. Follow along for tips on productivity, design, and creative inspiration! ✨",
+    "profilePhoto": "",
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "plan": "pro"
+  },
+  {
+    "Id": 2,
+    "email": "jake@example.com", 
+    "password": "password123",
+    "username": "musician",
+    "name": "Jake Music",
+    "bio": "Indie musician and songwriter. Listen to my latest tracks and follow me on social media for updates on new releases! 🎵",
+    "profilePhoto": "",
+    "createdAt": "2024-01-20T14:45:00.000Z",
+    "plan": "free"
+  },
+  {
+    "Id": 3,
+    "email": "emma@example.com",
+    "password": "password123", 
+    "username": "blogger",
+    "name": "Emma Writes",
+    "bio": "Travel blogger and photographer documenting adventures around the world. Join me as I explore new places and cultures! 📸",
+    "profilePhoto": "",
+    "createdAt": "2024-01-25T09:15:00.000Z",
+    "plan": "free"
+  }
+]

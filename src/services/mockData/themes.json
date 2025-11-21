@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "userId": "1",
+    "background": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+    "buttonStyle": "rounded",
+    "textColor": "#ffffff",
+    "accentColor": "#ec4899",
+    "createdAt": "2024-01-15T11:30:00.000Z"
+  },
+  {
+    "Id": 2,
+    "userId": "2",
+    "background": "#1e293b",
+    "buttonStyle": "pill",
+    "textColor": "#ffffff",
+    "accentColor": "#10b981",
+    "createdAt": "2024-01-20T15:45:00.000Z"
+  },
+  {
+    "Id": 3,
+    "userId": "3",
+    "background": "#f8fafc",
+    "buttonStyle": "rounded",
+    "textColor": "#1e293b",
+    "accentColor": "#f59e0b",
+    "createdAt": "2024-01-25T10:00:00.000Z"
+  }
+]
